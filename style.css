@@ -1,0 +1,30 @@
+#main{
+    background-color:#DCF2F1;
+    float: left;
+    width: 30%;
+    height: 100%;
+
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+img{
+    border-radius: 50%;
+    width: 180px;
+}
+
+.info{
+    float: right;
+    width: 60%;
+    height: 33vb;
+    font-size:large;
+}
+
+body{
+    margin: auto;
+    width:80%
+}
+
+.contact{
+    margin-top: 40px;
+}
