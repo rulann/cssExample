@@ -1,23 +1,25 @@
 #main{
-    background-color:#DCF2F1;
+    background-color:#163853;
     float: left;
-    width: 30%;
-    height: 100%;
-
+    width: 29%;
+    height: 100vh;
     padding-top: 5%;
     padding-left: 5%;
 }
 
 img{
+    border: 2px white solid;
     border-radius: 50%;
-    width: 180px;
+    width: 190px;
 }
 
 .info{
     float: right;
-    width: 60%;
-    height: 33vb;
+    width: 62%;
+    height: 25%;
     font-size:large;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 body{
@@ -26,5 +28,39 @@ body{
 }
 
 .contact{
+    color: white;
     margin-top: 40px;
 }
+
+hr{
+    
+    width: 92%;
+    float: left;
+    margin: 0;
+}
+
+h2, h1, h3{
+    line-height: 0;
+}
+
+h3{
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+i{
+    margin-right: 10px;
+}
+
+p{
+    line-height: 1;
+    margin: 0;
+}
+
+li, ul{
+    margin: 0;
+}
+
+h3{
+    color: #163853;
+}
+
